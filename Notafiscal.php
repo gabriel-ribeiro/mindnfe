@@ -3,14 +3,14 @@
 	namespace MindNFE;
 	
 	/**
-	 *	Classe Nota Fiscal
-	 *	Desenvolvida para guardar os dados básicos da nota fiscal eletrônica (NFe).	
-	 *	De acordo com o Manual da SEFAZ
+	 * Classe Nota Fiscal
+	 * Desenvolvida para guardar os dados básicos da nota fiscal eletrônica (NFe).	
+	 * De acordo com o Manual da SEFAZ
 	 *	
-	 *	@license	MIT <http://opensource.org/licenses/mit-license.php>
-	 *	@package	MindNFE
-	 *	@version	1.0
-	 *	@author		Gabriel Ribeiro Araújo <contato@gabrielribeiro.net>
+	 * @license	MIT <http://opensource.org/licenses/mit-license.php>
+	 * @package	MindNFE
+	 * @version	1.0
+	 * @author		Gabriel Ribeiro Araújo <contato@gabrielribeiro.net>
 	 */
 	class Notafiscal {
 
