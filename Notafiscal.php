@@ -2,6 +2,7 @@
 
 	namespace MindNFE;
 	
+	
 	class Notafiscal {
 		
 		
