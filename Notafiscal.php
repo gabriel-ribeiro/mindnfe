@@ -27,4 +27,12 @@
 		 */
 		private $id = '';
 		
+		/**
+		 * Código da UF do emitente do Documento Fiscal
+		 * Utilizar a Tabela do IBGE de código de unidades da federação (Anexo IX - Tabela de UF, Município e País).
+		 * @var integer
+		 */
+		private $cUF = 0;
+		
 	}
+	
